@@ -1,1 +1,14 @@
 theme: jekyll-theme-minimal
+gems:
+  - jekyll-seo-tag
+tagline: "Privacy License - a Software License for Those Who Care About Privacy"
+description: "The Privacy License is a software license for free-and-open-source software, which protects the privacy and security of the software's end-users."
+url: https://privacy-license.org/
+Author: Steve Mitchell
+webmaster_verifications:
+  google:
+  bing: 
+  alexa: 
+  yandex: 
+  baidu: 
+  facebook: 
