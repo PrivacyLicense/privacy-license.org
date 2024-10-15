@@ -69,8 +69,7 @@ operated by this Distributor).
 
   1.3 Contact Opt-in - A User may supply certain contact information in order to be recognized by
 this Software, or to store information for later retreival. This contact information
-cannot be used for shall not be used for any other non-essential communication without explicit, opt-in consent from the user. Non-essential communications include, but are not limited to: marketing, advertising, notifications about other User(s) activity within the software, and any suggestion to interact with the software or with User(s) of the software. This consent can not be granted through acceptance of a EULA. We again
-affirm that User may not read EULA, notwithstanding the Users gurantee that they have read it.
+cannot be used for any other non-essential communication without explicit, opt-in consent from the user. Non-essential communications include, but are not limited to: marketing, advertising, notifications about other User(s) activity within the software, and any suggestion to interact with the software or with User(s) of the software. This consent can not be granted through acceptance of a EULA. We again affirm that User may not read EULA, notwithstanding the Users gurantee that they have read it.
 
   1.4 Essential Communications - If User supplied contact information and knowingly created an account/login, it is acceptable to contact User for the following reasons:
   * Direct messaging from another User or Users within the software, provided these Users are also natural persons, and not automated or virtual accounts
